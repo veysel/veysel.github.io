@@ -1,0 +1,5 @@
+﻿{
+  "SearchMapOptions": {
+    "url": "https://nominatim.openstreetmap.org/search/{searchText}?format=json"
+  }
+}

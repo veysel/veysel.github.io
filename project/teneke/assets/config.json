@@ -1,0 +1,94 @@
+[
+    {
+        "name": "Menu 1",
+        "list": [
+            {
+                "name": "Menu Item 1",
+                "list": [
+                    {
+                        "key": "key 1-a",
+                        "value": "value 1-a"
+                    },
+                    {
+                        "key": "key 2-a",
+                        "value": "value 2-a",
+                        "ispassword": true
+                    }
+                ]
+            },
+            {
+                "name": "Menu Item 2",
+                "list": [
+                    {
+                        "key": "key 1-b",
+                        "value": "value 1-b"
+                    },
+                    {
+                        "key": "key 2-b",
+                        "value": "value 2-b"
+                    },
+                    {
+                        "key": "key 3-b",
+                        "value": "value 3-b",
+                        "ispassword": true
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Menu 2",
+        "list": [
+            {
+                "name": "Menu Item 1",
+                "list": [
+                    {
+                        "key": "key 1-a",
+                        "value": "value 1-a"
+                    },
+                    {
+                        "key": "key 2-a",
+                        "value": "value 2-a",
+                        "ispassword": true
+                    }
+                ]
+            },
+            {
+                "name": "Menu Item 2",
+                "list": [
+                    {
+                        "key": "key 1-b",
+                        "value": "value 1-b"
+                    },
+                    {
+                        "key": "key 2-b",
+                        "value": "value 2-b"
+                    },
+                    {
+                        "key": "key 3-b",
+                        "value": "value 3-b",
+                        "ispassword": true
+                    }
+                ]
+            },
+            {
+                "name": "Menu Item 3",
+                "list": [
+                    {
+                        "key": "key 1-b",
+                        "value": "value 1-b"
+                    },
+                    {
+                        "key": "key 2-b",
+                        "value": "value 2-b"
+                    },
+                    {
+                        "key": "key 3-b",
+                        "value": "value 3-b",
+                        "ispassword": true
+                    }
+                ]
+            }
+        ]
+    }
+]
